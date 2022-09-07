@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.kiwinetwork.fr/logos/logo.svg">
+  <img src="https://cdn.kiwinetwork.fr/kwn-fr/logo.svg">
 </p>
 
 ---
